@@ -4,7 +4,3 @@
 # Python cache
 __pycache__/
 *.py[cod]
-
-# Yolov8 / model çıktı klasörleri
-runs/
-*.pt
